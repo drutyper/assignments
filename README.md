@@ -1,4 +1,6 @@
+[![Build Status](https://travis-ci.org/drutyper/assignments.svg?branch=master)](https://travis-ci.org/drutyper/assignments)
 
+:shipit:
 
                            ..\|||||/',//
                         `\\`\           ///
